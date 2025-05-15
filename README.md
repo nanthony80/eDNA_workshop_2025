@@ -94,7 +94,7 @@ You should be in the base directory `[sa125050@caclogin03]$`. If you need to lea
 ```command
 git clone https://github.com/enormandeau/barque
 ```
-• Look around the directory using `cd barque` before moving on. remember `ch filename` will move you into a directory and `cd ..` will move you out.
+• Look around the directory using `cd barque` before moving on. remember `cd filename` will move you into a directory and `cd ..` will move you out.
 
 ## Filling the pipeline with our data
 From our base directory, copy and paste the sequences from the Raw_reads folder in the eDNA_workshop directory into the barque data folder using the `cp` command. 
