@@ -37,7 +37,7 @@ make -j4
 cd $INSDIR
 git clone https://github.com/enormandeau/barque
 ```
-We now have to make sure we have the appropriate modification access to this file. We can do this using `chmod` and make sure we can execute by adding `+x` then the file name. 
+We now have to make sure we have the appropriate modification access to this file. We can do this using `chmod` and make sure we can execute by adding `+x` then the file name. If nothing happens, there were no errors.
 ```command
 chmod +x ./InstallBarque.sh
 ```
